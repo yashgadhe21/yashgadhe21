@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **HTML , CSS , JAVA_SCRIPT , REACT**
+- 💬 Ask me about **HTML , CSS , JAVA_SCRIPT , REACT , JAVA**
 
 - 📫 How to reach me **yashgadhe2121@gmail.com**
 
