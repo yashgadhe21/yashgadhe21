@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gadhe</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">Frontend developer</h3>
 
   <p > <img  width="400"  align = "right"  src= "https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Coding" > </p>
   
